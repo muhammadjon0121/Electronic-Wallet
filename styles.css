@@ -1,0 +1,177 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #f7cd75;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-box {
+   height: 450px;
+   width: 800px;
+   overflow: hidden;
+   margin: 100px auto; 
+   display: -webkit-box;
+   
+}
+
+.left-blok {
+    width: 300px;
+    height: 450px;
+    background-color: #f2f2f2;
+    overflow: auto;
+  
+}
+
+.right-blok {
+    width: 500px;
+    height: 450px;
+    background-color: #ffffff;
+    overflow: auto;
+    font-size: 16px;
+    
+    
+
+
+}
+
+.item-img {
+    height: 38px;
+    width: 60px;
+    overflow: auto;
+}
+
+.name-wallets {
+    font-size: 20px;
+    margin: 40px;
+  
+
+}
+
+.icon-wallets {
+    float: right;
+    margin-top: -60px;
+    margin-right: 35px; 
+}
+
+.credit-card {
+    background-color: #fff;
+    height: 111px;
+    width: 203px;
+    border: 1px solid #dedede; 
+    border-radius: 4px;
+    margin: 40px;
+    cursor: pointer;
+    transition: 0.15s ease-in-out;
+}
+
+.credit-card:hover {
+    box-shadow: 0 0 0 2px #8793C6;
+}
+
+.number-card {
+    display: inline-block;
+    color: #727272;
+    font-size: 16px;
+
+}
+
+.data-card{
+    display: inline-block;
+    color: #72727a;
+    font-size: 13px;
+
+}
+
+.card-box {
+    padding: 10px;
+
+}
+
+.title-box {
+    padding: 40px;
+    font-size: 18px; 
+    display: inline-block;
+
+}
+
+.total {
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 40px;
+    margin-top: 40px;
+
+}
+
+.history {
+   padding: 40px;
+   margin-top: -100px;
+}
+
+.item-cent {
+    font-size: 10px;
+}
+
+.item-cent-monney {
+    font-size: 16px;
+}
+
+.vertical-line {
+    margin-bottom: 20px;
+    border-top: 1px solid #dedede;
+}
+
+.icon-image_value {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid #dedede;
+    text-align: center;
+    line-height: 20px;
+    float: left;
+    margin-right: 30px;
+    margin-top: 10px;
+
+}
+
+.value-product {
+    font-size: 16px;
+    font-weight: 900;
+    color:  #8897C6;
+    float: right;
+    margin-top: -40px;
+}
+
+.value-product-monney {
+    font-size: 16px;
+    font-weight: 900;
+    color:  #8BCD5E;;
+    float: right;
+    margin-top: -40px;
+    
+}
+
+.name-product {
+    font-weight: 700;
+    font-size: 18px;
+    color: black;
+
+}
+
+.info-product {
+    margin-top: 5px;
+    font-size: 13px;
+    color: #B4B4B4;
+    margin-left: 26px;
+}
+
+.main-line {
+    padding: 40px;
+    margin-top: -40px;
+
+}
+
+.history_value{
+    margin-top: 40px;
+}
